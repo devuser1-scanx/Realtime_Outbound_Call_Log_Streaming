@@ -1,0 +1,7 @@
+fastapi
+uvicorn[standard]
+sqlalchemy
+cloud-sql-python-connector[pg8000]
+google-cloud-pubsub
+pytest
+python-dotenv
